@@ -1,5 +1,9 @@
 # Credit_Risk_Analysis
 
+Data set .csv file was archived due to large weight.
+
+
+
 ## Purpose
 
 The purpose of this analysis was to use Python and Scikit-learn to build and evaluate several machine learning models to predict credit risk.
