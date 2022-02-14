@@ -34,7 +34,7 @@ The purpose of this analysis was to use Python and Scikit-learn to build and eva
 * Recall follows the same trend with Random Oversampling and makes 0.63 and 0.66 for high and low risk credits respectively
 
 
-#### Cluster Centroid Oversampling
+#### Cluster Centroid Undersampling
 
 ![oversampling](https://github.com/AlekseiPronin/Credit_Risk_Analysis/blob/main/Resources/undersampling.png)
 
